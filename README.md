@@ -6,13 +6,12 @@
 
 
 # Specs
-macOS Catalina 10.15.6
-Intel(R) Core(TM) i5-3340M CPU @ 2.70GHz Turbo 3.4Ghz (2 cores, 4 threads)
-Micron 8GB DDR3-RAM @ 1600 Mhz (8KTF51264HZ-1G6E1)
-Intel HD Graphics 4000 1536 Mb
-INTEL SSDSC2BW180A3H 180 GB SSD 
-14" HD 1366x768 Screen
-MATSHITA DVD+/-RW UJ8B2
+Os: macOS Catalina 10.15.6
+CPU: Intel(R) Core(TM) i5-3340M CPU @ 2.70GHz Turbo 3.4Ghz (2 cores, 4 threads)
+Ram: Micron 8GB DDR3-RAM @ 1600 Mhz (8KTF51264HZ-1G6E1)
+GPU: Intel HD Graphics 4000 1536 Mb
+SSD: INTEL SSDSC2BW180A3H 180 GB SSD 
+Screen: 14" HD 1366x768
 
 
 
