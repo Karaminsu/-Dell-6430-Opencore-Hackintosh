@@ -33,11 +33,11 @@ HDMI Out
 
 # Doesn't work natively
 
-Wifi (need to change internal card) ; I use a Atheros 9280 kext fix hackintool https://github.com/headkaze/Hackintool/releases/
+Wifi (need to change internal card) ; I use a Atheros 9280 and hackintool for install kext https://github.com/headkaze/Hackintool/releases/
 Bluetooth (not tested)
 VGA out (Not Work but according to some users it can work)
 
 
 
 # Settings
-Once you have the correct BIOS version, go to the BIOS by using the F12 key at boot. Click on "Load defaults" then set SATA Operations to AHCI, set Boot List Option to UEFI and Disable Secure Boot.
+Once you have the correct BIOS version v12, go to the BIOS by using the F12 key at boot. Click on "Load defaults" then set SATA Operations to AHCI, set Boot List Option to UEFI and Disable Secure Boot.
